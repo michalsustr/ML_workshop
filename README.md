@@ -1,5 +1,7 @@
 # Reinforcement learning workshop
 
+[![Join the chat at https://gitter.im/RL_workshop/Lobby](https://badges.gitter.im/RL_workshop/Lobby.svg)](https://gitter.im/RL_workshop/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Atari](pics/atari.jpg)
 
 Materials and organization for the upcoming RL workshop.
